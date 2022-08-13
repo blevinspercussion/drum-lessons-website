@@ -1,5 +1,13 @@
+:root {
+  --main-bg-color: #e3e2df;
+  --secondary-bg-color: white;
+  --main-text-color: black;
+  --hilight-text-color: #9a1750;
+}
+
 .App {
   text-align: center;
+  background-color: var(--main-bg-color);
 }
 
 .App-logo {

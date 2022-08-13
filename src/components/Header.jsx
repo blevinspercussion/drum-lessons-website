@@ -6,7 +6,7 @@ function Header () {
         <div className='head'>
             <img className='logo' src={logo} alt='blevins percussion logo'></img>
             <div className='vl'></div>
-            <h3>North Georgia's Premier Spot for Expert Drum Lessons</h3>
+            <h3>North Georgia's Premier Spot for <span className='hilight-text'>Expert</span> Drum Lessons</h3>
         </div>
     )
 }
