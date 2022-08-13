@@ -1,3 +1,20 @@
 .title {
     font-family: 'Oleo Script Swash Caps', cursive;
 }
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vl {
+    border-left: 3px solid black;
+    height: 10rem;
+    margin: 0 10rem 0 10rem;
+}
+
+.logo {
+    width: 20rem;
+}
+

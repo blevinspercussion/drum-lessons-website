@@ -1,9 +1,11 @@
 import './components.css';
+import logo from './bplogo.png';
 
 function Header () {
     return (
         <div className='head'>
-            <h1 className='title'>Blevins Percussion</h1>
+            <img className='logo' src={logo} alt='blevins percussion logo'></img>
+            <div className='vl'></div>
             <h3>North Georgia's Premier Spot for Expert Drum Lessons</h3>
         </div>
     )
