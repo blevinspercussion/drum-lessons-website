@@ -26,3 +26,24 @@
     width: 20rem;
 }
 
+#intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondary-bg-color);
+}
+
+.text-box {
+    max-width: 50vw;
+}
+
+.inline-image {
+    max-height: 30rem;
+    margin: 5rem;
+    border-radius: 2rem;
+    box-shadow: 1rem 1rem 1rem black;
+}
+
+#footer {
+    margin: 5rem 0 5rem 0;
+}
