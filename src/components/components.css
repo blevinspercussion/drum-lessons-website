@@ -47,3 +47,27 @@
 #footer {
     margin: 5rem 0 5rem 0;
 }
+
+/* nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+#nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
+
+a :hover {
+    color: var(--hilight-text-color);
+}
+
+.link {
+    color: black;
+}

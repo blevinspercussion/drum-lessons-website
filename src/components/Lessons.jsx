@@ -1,0 +1,11 @@
+import './components.css';
+
+function Lessons () {
+    return (
+        <div>
+
+        </div>
+    )
+}
+
+export default Lessons;
