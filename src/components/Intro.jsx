@@ -6,9 +6,9 @@ function Intro () {
     return (
         <div className='content'>
             <div className='text-box'>
-                <h3>
+                <h1>
                     I'm Adam Blevins, the owner and lead instructor at Blevins Percussion.
-                </h3>
+                </h1>
                 <p>
                     In the last 25 years I have worked with hundreds of student both privately, as well as 
                     with public and private school music programs. I have helped dozens of percussion sections 

@@ -35,9 +35,10 @@
 .content {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     background-color: var(--secondary-bg-color);
     flex-wrap: wrap;
+    box-shadow: 0 -8px 20px black;
 }
 
 .text-box {

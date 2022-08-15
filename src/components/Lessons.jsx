@@ -6,6 +6,7 @@ function Lessons () {
     return (
         <div className='content'>
             <div className='text-box'>
+                <h1>Lessons</h1>
             <p>
                     I create lessons plans that are tailor-made to each student and their personal goals, whether that is to play in a band 
                     with their friends, study music in college, embark on a career as a professional musician, or just have fun. In all of my 
