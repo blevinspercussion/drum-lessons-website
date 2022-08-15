@@ -24,13 +24,20 @@
 
 .logo {
     width: 20rem;
+    transition: 0.3s;
 }
 
-#intro {
+.logo:hover {
+    filter: drop-shadow(1px 1px 5px black);
+    transition: 0.3s;
+}
+
+.content {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: var(--secondary-bg-color);
+    flex-wrap: wrap;
 }
 
 .text-box {
@@ -70,4 +77,8 @@ a :hover {
 
 .link {
     color: black;
+}
+
+iframe {
+    margin: 1rem;
 }

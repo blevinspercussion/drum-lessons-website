@@ -4,7 +4,7 @@ import purpleDrumlites from './purple-drumlites.jpg';
 
 function Intro () {
     return (
-        <div id='intro'>
+        <div className='content'>
             <div className='text-box'>
                 <h3>
                     I'm Adam Blevins, the owner and lead instructor at Blevins Percussion.
