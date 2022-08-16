@@ -83,3 +83,15 @@ a :hover {
 iframe {
     margin: 1rem;
 }
+
+.faq {
+    background-color: var(--secondary-bg-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.answer {
+    max-width: 75vw;
+}
