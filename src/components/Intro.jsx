@@ -22,11 +22,11 @@ function Intro () {
                     Not only have a taught others how to perform on drums and percussion, but I have also walked the 
                     walk as a professional musician, playing gigs all over the southeastern United States and beyond, 
                     from Florida to Iowa. I have gained a wealth of knowledge from my time as a working, professional 
-                    musician to all of my students, whether their goal is to play in a band with their friends, study 
+                    musician that I bring to all of my students, whether their goal is to play in a band with their friends, study 
                     music at the collegiate level, or work as a touring drummer or percussionist.
                 </p>
                 <p>
-                    While your here, be sure to read about my qualifications in my bio, or why you should study with 
+                    While you're here, be sure to read about my qualifications in my bio, or why you should study with 
                     Blevins Percussion. If you would like to inquire about private lessons, book me for a clinic, or 
                     have me come work with your school percussion section or drumline, please see my contact page for 
                     contact info.
