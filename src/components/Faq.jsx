@@ -3,6 +3,7 @@ import './components.css';
 function Faq () {
     return (
         <div className='content faq'>
+            <div className='text-box'>
             <div className='question'>
                 <h2>Do I need a private instructor?</h2>
             </div>
@@ -10,7 +11,7 @@ function Faq () {
                 <p>
                     We live in a truly amazing time in that there is a wealth of information that can be had for 
                     free or very cheap through websites such as Youtube. Unfortunately, creating content on 
-                    these platforms is almost as ealy as consuming it, so nearly anyone can do it. This has resulted 
+                    these platforms is almost as easy as consuming it, so nearly anyone can do it. This has resulted 
                     in a lot of bad information being passed around. And even if you are able to parse through the bad 
                     information, there is no structure or feedback to the 'lessons'.
                 </p>
@@ -35,6 +36,7 @@ function Faq () {
                     on your specific goals, and improving upon your strengths and weaknesses to make you a better player. 
                 </p>
             </div>
+            <hr />
             <div className='question'>
                 <h2>How should I choose a private instructor?</h2>
             </div>
@@ -68,6 +70,7 @@ function Faq () {
                     be sufficient.
                 </p>
             </div>
+            <hr />
             <div className='question'>
                 <h2>Why should I take lessons at Blevins Percussion?</h2>
             </div>
@@ -98,6 +101,7 @@ function Faq () {
                 <p>
 
                 </p>
+            </div>
             </div>
         </div>
     )

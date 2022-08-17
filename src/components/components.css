@@ -35,14 +35,21 @@
 .content {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    background-color: var(--secondary-bg-color);
+    align-items: center;
+    /* background-color: var(--secondary-bg-color); */
+    background-image: url('banner.jpg');
     flex-wrap: wrap;
     box-shadow: 0 -8px 20px black;
 }
 
 .text-box {
     max-width: 50vw;
+    background-color: var(--secondary-bg-color);
+    padding: 1rem;
+    border-radius: 1rem;
+    color: white;
+    margin: 2rem 0 2rem 0;
+
 }
 
 .inline-image {
