@@ -1,9 +1,20 @@
 import './components.css';
 import logo from './bplogo.png';
+import hamburger from './icon-menu.svg';
+
+import HamburgerMenu from './HamburgerMenu';
 
 import { Link } from 'react-router-dom';
+import { useState } from 'react';
 
 function Header () {
+
+    const [showMobileMenu, setShowMobileMenu] = useState(false);
+
+    const toggleMobileMenu = () => {
+        showMobileMenu ? setShowMobileMenu(false) : setShowMobileMenu(true);
+    }
+
     return (
         <div className='head'>
             <div>
@@ -18,6 +29,14 @@ function Header () {
             <h3>706 623 DRUM</h3>
             <h3>blevinspercussion@gmail.com</h3>
             </div>
+            <img className='hamburger-icon' src={hamburger} onClick={toggleMobileMenu} alt='mobile menu'></img>
+            
+            {(() => {
+                if (showMobileMenu) {
+                    return <HamburgerMenu toggleMobileMenu={toggleMobileMenu} />
+                }
+            })()}
+
         </div>
     )
 }
