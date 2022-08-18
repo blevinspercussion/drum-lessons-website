@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccdf338f.css",
-    "main.js": "/static/js/main.33a709e8.js",
+    "main.css": "/static/css/main.88e058a6.css",
+    "main.js": "/static/js/main.b9880424.js",
     "static/media/banner.jpg": "/static/media/banner.1569b31410bd31bbc4fd.jpg",
     "static/media/green_drumlites.jpg": "/static/media/green_drumlites.63dcf29e04363143088e.jpg",
     "static/media/purple-drumlites.jpg": "/static/media/purple-drumlites.04d4e055bc7a3825644e.jpg",
     "static/media/lecture2.jpg": "/static/media/lecture2.2cef8f16303e9bbc9d09.jpg",
     "static/media/bplogo.png": "/static/media/bplogo.d5f5e346f847c26019b3.png",
     "index.html": "/index.html",
-    "main.ccdf338f.css.map": "/static/css/main.ccdf338f.css.map",
-    "main.33a709e8.js.map": "/static/js/main.33a709e8.js.map"
+    "static/media/icon-close.svg": "/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
+    "static/media/icon-menu.svg": "/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
+    "main.88e058a6.css.map": "/static/css/main.88e058a6.css.map",
+    "main.b9880424.js.map": "/static/js/main.b9880424.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccdf338f.css",
-    "static/js/main.33a709e8.js"
+    "static/css/main.88e058a6.css",
+    "static/js/main.b9880424.js"
   ]
 }
