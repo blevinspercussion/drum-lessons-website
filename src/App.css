@@ -1,6 +1,7 @@
 :root {
   --main-bg-color: #e3e2df;
   --secondary-bg-color: #2d0f45d9;
+  --tertiary-bg-color: #8A2E6055;
   --main-text-color: black;
   --hilight-text-color: #9a1750;
 }
@@ -37,6 +38,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {

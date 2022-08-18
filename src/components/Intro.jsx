@@ -18,7 +18,7 @@ function Intro () {
                     musicians and music educators.
                 </p>
 
-                <p>
+                {/* <p>
                     Not only have a taught others how to perform on drums and percussion, but I have also walked the 
                     walk as a professional musician, playing gigs all over the southeastern United States and beyond, 
                     from Florida to Iowa. I have gained a wealth of knowledge from my time as a working, professional 
@@ -30,7 +30,28 @@ function Intro () {
                     Blevins Percussion. If you would like to inquire about private lessons, book me for a clinic, or 
                     have me come work with your school percussion section or drumline, please see my contact page for 
                     contact info.
-                </p>
+                </p> */}
+                <h2>Why choose Blevins Percussion?</h2>
+                <ul className='list'>
+                    <li>
+                        As a former top-performing student musician, I know what it takes to prepare for auditions and stay at the head of the class.
+                    </li>
+                    <li>
+                        As a working professional musician, I know what it takes to get and keep gigs.
+                    </li>
+                    <li>
+                        I make lessons fun and engaging while making sure every student gets a good grounding in the fundamentals.
+                    </li>
+                    <li>
+                        No electronic drumsets! I teach all lessons on acoustic drumsets, which helps my students learn proper technique.
+                    </li>
+                    <li>
+                        I can perform and teach a wide variety of musical styles from marching band and orchestra, to country, rock, and funk.
+                    </li>
+                    <li>
+                        I have a vast amount of teaching experience, dating all the way back to 1996.
+                    </li>
+                </ul>
             </div>
 
             <div>

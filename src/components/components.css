@@ -49,6 +49,8 @@
 }
 
 .text-box {
+    display: flex;
+    flex-direction: column;
     max-width: 50vw;
     background-color: var(--secondary-bg-color);
     padding: 1rem;
@@ -108,6 +110,21 @@ iframe {
 .answer {
     max-width: 75vw;
 }
+
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+    background-color: var(--tertiary-bg-color);
+    border-radius: 1rem;
+  }
+  
+.list li {
+    margin: 0.5rem;
+  }
+
+
 
 @media only screen and (max-width: 480px) {
 
