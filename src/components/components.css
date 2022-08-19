@@ -109,6 +109,7 @@ iframe {
 
 .answer {
     max-width: 75vw;
+    background-color: var(--tertiary-bg-color);
 }
 
 .list {
