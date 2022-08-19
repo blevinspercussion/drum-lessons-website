@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3547e86d.css",
+    "main.css": "/static/css/main.5a8671cf.css",
     "main.js": "/static/js/main.24a4eae0.js",
     "static/media/banner.jpg": "/static/media/banner.1569b31410bd31bbc4fd.jpg",
     "static/media/green_drumlites.jpg": "/static/media/green_drumlites.63dcf29e04363143088e.jpg",
@@ -10,11 +10,11 @@
     "index.html": "/index.html",
     "static/media/icon-close.svg": "/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
     "static/media/icon-menu.svg": "/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
-    "main.3547e86d.css.map": "/static/css/main.3547e86d.css.map",
+    "main.5a8671cf.css.map": "/static/css/main.5a8671cf.css.map",
     "main.24a4eae0.js.map": "/static/js/main.24a4eae0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3547e86d.css",
+    "static/css/main.5a8671cf.css",
     "static/js/main.24a4eae0.js"
   ]
 }
