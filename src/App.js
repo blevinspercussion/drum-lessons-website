@@ -7,6 +7,7 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Lessons from './components/Lessons';
 import Faq from './components/Faq';
+import FreeStuff from './components/FreeStuff';
 import Contact from './components/Contact';
 
 import {BrowserRouter as Router, Route, Routes } from 'react-router-dom';
@@ -21,6 +22,7 @@ function App() {
         <Route path='/' element={ <Intro /> } />
         <Route path='/about' element={ <About /> } />
         <Route path='/lessons' element={ <Lessons /> } />
+        <Route path='/free-stuff' element={ <FreeStuff /> } />
         <Route path='/faq' element={ <Faq /> } />
         <Route path='/contact' element={ <Contact /> } />
       </Routes>

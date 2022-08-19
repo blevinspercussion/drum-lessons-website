@@ -13,6 +13,9 @@ function Nav () {
                     <Link to={'./lessons'}><p className='link'>Lessons</p></Link>
                 </li>
                 <li>
+                    <Link to={'./free-stuff'}><p className='link'>FREE STUFF</p></Link>
+                </li>
+                <li>
                     <Link to={'./faq'}><p className='link'>FAQ</p></Link>
                 </li>
                 <li>

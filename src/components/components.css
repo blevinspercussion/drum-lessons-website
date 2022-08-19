@@ -124,6 +124,19 @@ iframe {
     margin: 0.5rem;
   }
 
+.free-stuff {
+    color: white;
+    background-color: var(--secondary-bg-color);
+    max-width: 90vw;
+}
+
+.subsection {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
 
 
 @media only screen and (max-width: 480px) {
